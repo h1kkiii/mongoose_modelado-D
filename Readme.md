@@ -18,7 +18,7 @@ Aplicación web diseñada para registrar las ventas individuales de cada emplead
 - Modelo embebido para ventas y productos dentro de cada empleado para un acceso y consultas más eficientes.
 - Información del usuario dentro del documento del empleado para centralizar datos.
 
-- Instalación:
+# Instalación:
 
 - Clonar repositorio.
 - npm install
